@@ -1,5 +1,5 @@
 // link to page creation
-const generateHTML = require("./src/generateHTML");
+const generateHTML = require("./src/HTML");
 
 // team profiles
 const Manager = require("./lib/Manager");
